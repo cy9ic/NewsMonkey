@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Heinz Schenk",
+      "title": "How 'binning' social media proved a catalyst for polarising Markram's resurgence",
+      "description": "Aiden Markram has attributed his promising renaissance as an international cricketer partly to getting off social media.",
+      "url": "https://www.news24.com/sport/cricket/proteas/how-binning-social-media-proved-a-catalyst-for-polarising-markrams-resurgence-20230301",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T06:42:35+00:00",
+      "content": "<ul><li>Aiden Markram has attributed his promising renaissance as an international cricketer partly to getting off social media.</li><li>Perceived as too mild-mannered and lacking steel by some, he's… [+4739 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Andrew McMurtry",
+      "title": "‘Beyond embarrassing’ cricket farce is a joke",
+      "description": "<p>The third Test pitch between Australia and India at Indore has been hammered by the cricket world after an incredible start to the match.</p>",
+      "url": "https://www.news.com.au/sport/cricket/cricket-world-tear-beyond-embarrassing-third-test-pitch-to-shreds/news-story/6923609447c4dab437a402094d59c620",
+      "urlToImage": "https://content.api.news/v3/images/bin/2061cc0af8fd43b5b603942993b0f858",
+      "publishedAt": "2023-03-01T06:16:00Z",
+      "content": "The third Test pitch between Australia and India at Indore has been hammered by the cricket world after an incredible start to the match.\r\nIndia won the toss and batted but at the drinks break after … [+3667 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Yorkshire cricket racism hearing to begin",
+      "description": "Michael Vaughan and Azeem Rafiq are due to appear at a hearing into the Yorkshire racism scandal, which starts on Wednesday.",
+      "url": "http://www.bbc.co.uk/sport/cricket/64784843",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1813C/production/_128802689_bbc-sport-index-imagery-2-split-images-gradient-df6fe04f-0d3f-49a3-9592-8cbd5dd4109d.png",
+      "publishedAt": "2023-02-28T23:07:24.3724373Z",
+      "content": "Former Yorkshire cricketer Azeem Rafiq is due to appear in person to give evidence at this week's disciplinary hearing\r\nThe racism scandal that has engulfed Yorkshire County Cricket Club and the Engl… [+11219 chars]"
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Brittany Carter",
+      "title": "The Australian women's cricket team have won everything on offer, so what's left for them to conquer?",
+      "description": "Over the past 12 months, the Australian women's cricket team have won the T20 World Cup, a Commonwealth Games gold medal and the 50-over Cricket World Cup. So what's left for these white-ball heroes to conquer? Test cricket.",
+      "url": "http://www.abc.net.au/news/2023-03-01/whats-next-for-aus-cricket-team-that-keep-winning-everything/102036966",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/cb14078c4f1e2c3b5ddfbc31b7af9d32?impolicy=wcms_crop_resize&cropH=2394&cropW=4256&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2023-02-28T22:37:22Z",
+      "content": "Another T20 World Cup has come and gone, and the Australian women have completed the hat-trick, winning three straight titles to lift the trophy for the sixth time.\r\nIn the space of less than 12 mont… [+10728 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
